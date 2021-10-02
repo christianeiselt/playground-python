@@ -1,3 +1,4 @@
+"""Test for module inc_dec with pytest framework."""
 import inc_dec    # The code to test
 
 
