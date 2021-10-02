@@ -1,3 +1,5 @@
+"""Test for module inc_dec with unittest framework."""
+
 import inc_dec    # The code to test
 import unittest   # The test framework
 
