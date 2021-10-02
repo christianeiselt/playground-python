@@ -7,8 +7,12 @@ import unittest   # The test framework
 
 
 class TestIncrementDecrement(unittest.TestCase):
+    """Tests incrementing for number 3."""
+
     def test_increment(self):
         self.assertEqual(inc_dec.increment(3), 4)
+
+    """Tests decrementing for number 3."""
 
     def test_decrement(self):
         self.assertEqual(inc_dec.decrement(3), 2)
