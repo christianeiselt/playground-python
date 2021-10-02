@@ -1,8 +1,8 @@
-def increment(x):
+def increment(number):
     """Increments number by one."""
-    return x + 1
+    return number + 1
 
 
-def decrement(x):
+def decrement(number):
     """Decrements number by one."""
-    return x - 1
+    return number - 1
